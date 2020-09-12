@@ -1,4 +1,15 @@
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Melles1991's GitHub.</h2>
+<a href="https://www.facebook.com/mr.shterben">
+  <img align="left" alt="Galitsky Dmytro's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://instagram.com/urshiki/">
+  <img align="left" alt="Galitsky Dmytro's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://t.me/mrshterben">
+  <img align="left" alt="Galitsky Dmytro's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br/>
+<br/>
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
