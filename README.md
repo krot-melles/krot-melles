@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
+<img align='left' src='https://github.githubassets.com/images/mona-loading-default.gif' width='150"'>
 
 [![melles1991 github stats](https://github-readme-stats.vercel.app/api?username=melles1991)](https://github.com/melles1991)
 
