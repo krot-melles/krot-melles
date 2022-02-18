@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img align='center' src='https://github.githubassets.com/images/mona-loading-default.gif' width='150"'>
+<p align="center"><img align='center' src='https://github.githubassets.com/images/mona-loading-default.gif' width='150"'></p>
 <p>
 <a href="https://github.com/melles1991"><img src="https://github-readme-stats.vercel.app/api?username=melles1991&show_icons=true" style="height: 160px;"></a>
 <a href="https://github.com/melles1991"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melles1991&layout=compact" style="height: 160px;"></a>
