@@ -16,7 +16,8 @@
 
 <img align='left' src='https://github.githubassets.com/images/mona-loading-default.gif' width='150"'>
 
-[![melles1991 github stats](https://github-readme-stats.vercel.app/api?username=melles1991)](https://github.com/melles1991)
+[![melles1991 github stats](https://github-readme-stats.vercel.app/api?username=melles1991&show_icons=true)](https://github.com/melles1991)[![melles1991 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melles1991&layout=compact)](https://github.com/melles1991)
+<p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=iamlazy123&style=flat-square" alt="dlwlrma123"></p>
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmelles1991&longCache=true)](https://github.com/melles1991)
 
